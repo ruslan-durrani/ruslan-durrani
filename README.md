@@ -1,16 +1,23 @@
-### Hi there 👋
+MasterHead
 
-<!--
-**ruslan-durrani/ruslan-durrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Ruslan Babar
+A passionate Software Engineer from Pakistan.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Flutter, Node, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Machine Learning, Deep Learning, Tensor Flow
+
+💬 Ask me about Mobile App Development
+
+📫 How to reach me ruslandurrani@gmail.com
+
+Connect with me:
+
+
+Languages and Tools:
+flutter dart firebase  git postman
+figma adobe xd photoshop
+python express java javascript linux nodejs react
+oracle supabase mongodb hive
+
+ruslan-babar
