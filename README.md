@@ -2,6 +2,10 @@
 <h1 align="left">Hi 👋, I'm Ruslan Babar</h1>
 <h3 align="left">A passionate Software Engineer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+
+<!-- flutter image -->
+<!-- https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png -->
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🔭 I’m currently working on **Flutter, Node, Python**
@@ -51,5 +55,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslan-durrani&hide_progress=true" alt="ruslanbabar" /></p>
 
-<!-- flutter image -->
-<!-- https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png -->
