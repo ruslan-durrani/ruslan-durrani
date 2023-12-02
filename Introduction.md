@@ -1,14 +1,23 @@
-- 👋 Hi, I’m @ruslan-durrani
-- 👀 I’m interested in programming & problem solving through.
-- 🌱 I’m currently doing Software engineering from Comsats University Islamabad. 
-      And as a part time i worked in a firm as a Graphics designer and have 4 years of experience.
-- 💞️ I’m looking to collaborate on programming tasks and projects. And a designing company as a graphics designer.
-- 📫 How to reach me ...
-      Email: ruslandurrani907@gmail.com
-      Contact: +92 3105098769
-      LinkedIn: https://www.linkedin.com/in/ruslandurrani/
-      Behance: https://www.behance.net/ruslandurrani
-<!---
-ruslan-durrani/ruslan-durrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MasterHead
+
+Hi 👋, I'm Ruslan Babar
+A passionate Software Engineer from Pakistan.
+
+🔭 I’m currently working on Flutter, Node, Python
+
+🌱 I’m currently learning Machine Learning, Deep Learning, Tensor Flow
+
+💬 Ask me about Mobile App Development
+
+📫 How to reach me ruslandurrani@gmail.com
+
+Connect with me:
+
+
+Languages and Tools:
+flutter dart firebase  git postman
+figma adobe xd photoshop
+python express java javascript linux nodejs react
+oracle supabase mongodb hive
+
+ruslan-babar
