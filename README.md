@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:3840/format:webp/1*zy5IG2inEQSqeWyPJ7vo-g.gif)
-# 💫 About Me:
 <h1 align="left">Hi 👋, I'm Ruslan Babar</h1>
+# 💫 About Me:
 <h3 align="left">A passionate Software Engineer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
